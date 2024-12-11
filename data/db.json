@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "7d2d",
+      "name": "Sravya",
+      "email": "sravya@gmail.com",
+      "password": "12345",
+      "avatar": "loves coding",
+      "username": "sravya"
+    },
+    {
+      "id": "c138",
+      "name": "Sravya",
+      "email": "sravya@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "7500",
+      "name": "vivek",
+      "email": "vivek@gmail.com",
+      "password": "12345",
+      "bio": "loves coding and cofees",
+      "avatar": "https://www.canva.com/design/DAGY9CkWB_M/tEvGCkFkiYYVGf9OaGzIUg/edit?utm_content=DAGY9CkWB_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "username": "Sharma"
+    },
+    {
+      "id": "c2eb",
+      "name": "vivek",
+      "email": "vivek@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "df68",
+      "name": "vivek",
+      "email": "vivek@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "d705",
+      "name": "vivek",
+      "email": "vivek@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "ec3f",
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
